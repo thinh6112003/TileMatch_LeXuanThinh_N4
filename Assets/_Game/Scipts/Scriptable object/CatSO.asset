@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25db47ff422f41d45a99d1277e2b9be4, type: 3}
+  m_Name: CatSO
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: 531994023, guid: 36e3fa9ed16a70e4ab2940d78343b7db, type: 3}
+  - {fileID: 344889959, guid: 36e3fa9ed16a70e4ab2940d78343b7db, type: 3}
+  - {fileID: -106434607, guid: 36e3fa9ed16a70e4ab2940d78343b7db, type: 3}
+  - {fileID: -370349184, guid: 36e3fa9ed16a70e4ab2940d78343b7db, type: 3}
+  - {fileID: -368628990, guid: 36e3fa9ed16a70e4ab2940d78343b7db, type: 3}
+  - {fileID: -1226490504, guid: 36e3fa9ed16a70e4ab2940d78343b7db, type: 3}
+  - {fileID: 1165068719, guid: 36e3fa9ed16a70e4ab2940d78343b7db, type: 3}
+  - {fileID: -1763699821, guid: 36e3fa9ed16a70e4ab2940d78343b7db, type: 3}
+  - {fileID: -1246801498, guid: 36e3fa9ed16a70e4ab2940d78343b7db, type: 3}
+  - {fileID: -188053170, guid: 36e3fa9ed16a70e4ab2940d78343b7db, type: 3}

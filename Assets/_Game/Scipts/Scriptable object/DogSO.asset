@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25db47ff422f41d45a99d1277e2b9be4, type: 3}
+  m_Name: DogSO
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: -933992504, guid: 8f40ae35a7113e54496d5f8632e5c989, type: 3}
+  - {fileID: -1617795960, guid: 8f40ae35a7113e54496d5f8632e5c989, type: 3}
+  - {fileID: 656915721, guid: 8f40ae35a7113e54496d5f8632e5c989, type: 3}
+  - {fileID: 835878593, guid: 8f40ae35a7113e54496d5f8632e5c989, type: 3}
+  - {fileID: 1960289612, guid: 8f40ae35a7113e54496d5f8632e5c989, type: 3}
+  - {fileID: 1886405713, guid: 8f40ae35a7113e54496d5f8632e5c989, type: 3}
+  - {fileID: -1133588605, guid: 8f40ae35a7113e54496d5f8632e5c989, type: 3}
